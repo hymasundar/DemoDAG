@@ -2,7 +2,7 @@
 
 Appropriate comments are added at each method level and at the flow.
 
-Tested with a sample test data DemoDAG file by adding edges. The addition of edges can be changed specific to the given problem. This is a generic solution should work for all DAG's.
+Tested with a sample test data DemoDAG file by adding edges. The addition of edges can be changed specific to the given problem. This is a generic solution should work for all DAG's in finding the longest path.
 
 Following is complete algorithm for finding longest distances. 
 
